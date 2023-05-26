@@ -1,5 +1,5 @@
 # About Me:
-My current work: developing and maintaining large scale machine learning solutions, teaching people the magic of data science<br>My current learning: transformer model best practice (like gradient clipping and learning rate scheduling)<br>Looking for collaboration on: bioinformatics, generative AI<br>Ask me about: machine learning, deep learning, sequence modelling, MLOps<br>Fun fact: I really love sausage dogs. And beer 🍻.
+My current work: developing and maintaining large scale machine learning solutions, training people in the art of data science.<br>My current learning: transformer model best practice (like gradient clipping and learning rate scheduling).<br>Looking for collaboration on: bioinformatics, generative AI.<br>Ask me about: machine learning, deep learning, sequence modelling, MLOps<br>Fun fact: I really love sausage dogs. And beer 🍻.
 
 
 ## 🌐 Socials:
