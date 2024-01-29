@@ -1,13 +1,11 @@
 # About Me:
 
-Deep learning enthusiast, Python evangelist, amateur columnist. I have a lot of training and experience in machine learning. In fact, I've been immersed in the world of AI since my teenage years. Deep learning has fascinated me like no other topic can, and my wish is to expose more people to this body of work by simplifying complex concepts as far as reasonable. I'm eager to share my knowledge, so HMU if you need help with anything related to machine learning.
+Deep learning enthusiast and Python evangelist. I have a lot of training and experience in machine learning. Deep learning has fascinated me like no other topic can, and my wish is to expose more people to this body of work by simplifying complex concepts as far as reasonable. I'm eager to share my knowledge, so HMU if you need help with anything related to machine learning.
 
 * My current work: developing and maintaining large scale machine learning solutions, researching new avenues for AI breakthroughs in the world of banking and finance, training people in the art of data science.
-* My current learning: transformer model best practice (like gradient clipping and learning rate scheduling).
-* Looking for collaboration on: bioinformatics, generative AI.
+* My current learning: retrieval-augmented generation and intelligent agents.
+* Looking for collaboration on: bioinformatics, generative music.
 * Ask me about: machine learning, deep learning, sequence modelling, MLOps
-* Fun fact: I really love sausage dogs. And beer 🍻.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-denysschen/) 
