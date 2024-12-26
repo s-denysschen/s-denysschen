@@ -1,6 +1,6 @@
 # About Me:
 
-Deep learning enthusiast and Python evangelist. I have a lot of training and experience in machine learning.
+Deep learning enthusiast and Python evangelist.
 
 * My current work: commodifying LLMs, researching frontiers of deep learning.
 * My current learning: retrieval-augmented generation and intelligent agents.
